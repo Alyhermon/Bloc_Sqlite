@@ -30,4 +30,3 @@ public class DTO {
         this.cuerpo = cuerpo;
     }
 }
-    
