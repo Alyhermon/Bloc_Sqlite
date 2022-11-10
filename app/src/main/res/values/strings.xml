@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bloc_Notas</string>
+    <string name="id">Id</string>
+    <string name="txt_titulo">Titulo</string>
+    <string name="txt_cuerpo">Cuerpo</string>
+    <string name="registrar">Registrar Bloc de Notas</string>
+    <string name="buscar">Buscar un bloc de Notas</string>
+    <string name="modificar">Modificar Bloc de Notas</string>
+    <string name="eliminar">Eliminar Bloc de Notas</string>
+
+</resources>
